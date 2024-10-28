@@ -12,10 +12,10 @@ The Photo Gallery is a simple yet elegant web application designed to showcase a
 
 Here are some example images from the gallery:
 
-- ![Image 1](https://github.com/mdkeum/Photo_Gallery/blob/main/images/image1.JPG)
-- ![Image 2](https://github.com/mdkeum/Photo_Gallery/blob/main/images/image2.JPG)
-- ![Image 3](https://github.com/mdkeum/Photo_Gallery/blob/main/images/image3.JPG)
-- ![Image 4](https://github.com/mdkeum/Photo_Gallery/blob/main/images/image4.JPG)
+![Image 1](https://github.com/mdkeum/Photo_Gallery/blob/main/images/image1.JPG)
+![Image 2](https://github.com/mdkeum/Photo_Gallery/blob/main/images/image2.JPG)
+![Image 3](https://github.com/mdkeum/Photo_Gallery/blob/main/images/image3.JPG)
+![Image 4](https://github.com/mdkeum/Photo_Gallery/blob/main/images/image4.JPG)
 
 ## Features
 
@@ -39,7 +39,7 @@ To get started with the Photo Gallery, follow these steps:
    git clone https://github.com/mdkeum/photo_gallery.git
 2. Navigate to the project directory:
    ```
-   cd photo-gallery
+   cd photo_gallery
 3. Open index.html in your web browser to view the gallery.
 
 ## Usage
