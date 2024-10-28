@@ -6,7 +6,7 @@ The Photo Gallery is a simple yet elegant web application designed to showcase a
 
 ### Project Preview
 
-![Project Preview](images/preview.jpg)
+![Project Preview]([images/preview.jpg](https://github.com/mdkeum/Photo_Gallery/blob/main/images/photo_gallery_screenshot.JPG))
 
 ### Preview Images
 
