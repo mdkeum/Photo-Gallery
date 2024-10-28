@@ -17,6 +17,10 @@ Here are some example images from the gallery:
 ![Image 3](https://github.com/mdkeum/Photo_Gallery/blob/main/images/image3.JPG)
 ![Image 4](https://github.com/mdkeum/Photo_Gallery/blob/main/images/image4.JPG)
 
+## Live Demo
+
+You can view a live demo of the Photo Gallery [here][https://yourusername.github.io/photo-gallery](https://mdkeum.github.io/Photo_Gallery/)]. 
+
 ## Features
 
 - **Responsive Design**: The gallery adapts to different screen sizes, ensuring an optimal viewing experience on desktops, tablets, and mobile devices.
