@@ -40,7 +40,7 @@ To get started with the Photo Gallery, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/mdkeum/photo_gallery.git
+   git clone https://github.com/mdkeum/Photo_Gallery.git
 2. Navigate to the project directory:
    ```
    cd photo_gallery
