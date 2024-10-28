@@ -55,7 +55,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or want to add new features, please feel free to create a pull request.
 
-## Contact
-For any inquiries or feedback, you can reach me at your-email@example.com.
+## Contact Me
 
+If you have any questions or feedback, please reach out through my contact form [here](https://forms.gle/nGUiqKjCSFUVFcvV9).
 
