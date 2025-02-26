@@ -19,7 +19,7 @@ Here are some example images from the gallery:
 
 ## Live Demo
 
-You can view a live demo of the Photo Gallery [here](https://mdkeum.github.io/Photo_Gallery/). 
+You can view a live demo of the Photo Gallery [here](https://mdkeum.github.io/Photo_Gallery/)
 
 ## Features
 
